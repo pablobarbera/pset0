@@ -2,7 +2,7 @@
 
 Fill in your personal information and commit the changes with a meaningful commit message.  Then push the commit to the remote repository.
 
-* Name:
+* Name: Pablo
 
 * USC email address:
 
